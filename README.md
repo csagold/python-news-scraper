@@ -19,4 +19,3 @@
 
 #### python news_scraper.py
 #### The script will prompt you to enter the company name. After entering the company name, it will scrape news articles related to that company, generate an email template with hyperlinks to the articles, and print the email body.
-# python-news-scraper
